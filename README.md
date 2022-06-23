@@ -4,7 +4,7 @@
 
 ## Projects:
 💲 [Pricelee](http://pricelee-mern-frontend.herokuapp.com/) (personal project): An online price tracker<br>&nbsp;&nbsp;&nbsp;&nbsp;- [frontend repository link](https://github.com/KhadidjaArezki/pricelee-mern-frontend)<br>&nbsp;&nbsp;&nbsp;&nbsp;- [backend repository link](https://github.com/KhadidjaArezki/pricelee-mern-backend)
-<br>&nbsp;&nbsp;&nbsp;&nbsp; 📸 Screenshots: ![<img src="./assets/pricelee-landing-dsk-sm.png)" />](./assets/pricelee-landing-dsk-sm.png)
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 📸 Screenshots: ![<img src="./assets/pricelee-landing-dsk-small.png)" />](./assets/pricelee-landing-dsk-small.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khadidja Arezki) 
