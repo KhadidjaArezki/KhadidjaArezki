@@ -3,8 +3,8 @@
 🔥 I am passionate about computer science<br>🌱 I’m currently learning Functional Programming<br>🔭 I’m currently working on my problem-solving skills<br>👯 I’m looking to collaborate on a React project<br>🤔 I’m looking for help with building my developer network<br>💬 Ask me about the core Javascript language features<br>📫 How to reach me: 📧  khadidjaarezki999@gmail.com<br>⚡ Fun fact: I took a Linux course on a Windows machine. It was hell!
 
 ## Projects:
-💲 [Pricelee](http://pricelee-mern-frontend.herokuapp.com/) (personal project): An online price tracker<br>&nbsp;&nbsp;&nbsp;&nbsp;[frontend repository link](https://github.com/KhadidjaArezki/pricelee-mern-frontend)<br>&nbsp;&nbsp;&nbsp;&nbsp;[backend repository link](https://github.com/KhadidjaArezki/pricelee-mern-backend)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;Screenshots: ![<img src="./assets/pricelee-landing-dsk-small.png)" />](./assets/pricelee-landing-dsk-small.png)
+💲 [Pricelee](http://pricelee-mern-frontend.herokuapp.com/) (personal project): An online price tracker<br>&nbsp;&nbsp;&nbsp;&nbsp;- [frontend repository link](https://github.com/KhadidjaArezki/pricelee-mern-frontend)<br>&nbsp;&nbsp;&nbsp;&nbsp;- [backend repository link](https://github.com/KhadidjaArezki/pricelee-mern-backend)
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 📸 Screenshots: ![<img src="./assets/pricelee-landing-dsk-sm.png)" />](./assets/pricelee-landing-dsk-sm.png)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khadidja Arezki) 
