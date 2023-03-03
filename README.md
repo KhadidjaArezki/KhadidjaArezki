@@ -1,11 +1,10 @@
 # Hi, I am Khadidja Arezki 👋
 ### Full Stack Web Developer
 🔥 I am passionate about computer science<br>
-🌱 I’m currently learning Functional Programming<br>
+🌱 I’m currently learning Cloud Development<br>
 🔭 I’m currently working on my problem-solving skills<br>
-👯 I’m looking to collaborate on a React project<br>
+👯 I’m looking to collaborate on a React/NodeJS project<br>
 🤔 I’m looking for help with building my developer network<br>
-💬 Ask me about the core Javascript language features<br>
 📫 How to reach me: 📧  khadidjaarezki999@gmail.com<br>
 ⚡ Fun fact: I took a Linux course on a Windows machine. It was hell!
 
