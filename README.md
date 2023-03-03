@@ -6,7 +6,7 @@
 👯 I’m looking to collaborate on a React/NodeJS project<br>
 🤔 I’m looking for help with building my developer network<br>
 📫 How to reach me: 📧  khadidjaarezki999@gmail.com<br>
-⚡ Fun fact: I took a Linux course on a Windows machine. It was hell!
+⚡ Fun fact: I took a `Unix Command Line` course on a Windows machine. It was hell!
 
 ## Projects:
 1. 💲 Pricelee (personal project): An online price tracker
