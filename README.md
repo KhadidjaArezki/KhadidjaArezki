@@ -9,13 +9,14 @@
 ⚡ Fun fact: I took a `Unix Command Line` course on a Windows machine. It was hell!
 
 ## Projects:
-1. 💲 Pricelee (personal project): An online price tracker
+1. 💲 [Pricelee](https://pricelee-mern-backend.onrender.com/) (personal project): An online price tracker
 <br>&nbsp;&nbsp;&nbsp;&nbsp;➡️ [frontend repository link](https://github.com/KhadidjaArezki/pricelee-mern-frontend)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;➡️ [backend repository link](https://github.com/KhadidjaArezki/pricelee-mern-backend)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;➡️ [Pricelee's Live URL](https://pricelee-mern-backend.onrender.com/)
 <br>&nbsp;&nbsp;&nbsp;&nbsp; 📸 Screenshots: 👇<br>
 <br>![<img src="./assets/pricelee-landing-dsk-small.png)" />](./assets/pricelee-landing-dsk-small.png)
 
-2. 💬 Litetalk (team project created at [Chingu](https://www.chingu.io/)): A lightweight social media app for connecting with family and friends. You can chat and share media.
+3. 💬 Litetalk (team project created at [Chingu](https://www.chingu.io/)): A lightweight social media app for connecting with family and friends. You can chat and share media.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;➡️ [repository link](https://github.com/chingu-voyages/v39-bears-team-11)
 <br>&nbsp;&nbsp;&nbsp;&nbsp; 📸 Screenshots: 👇<br>
 <br>![<img src="./assets/litetalk-chats-mob.png"/>](./assets/litetalk-chats-mob.png)
