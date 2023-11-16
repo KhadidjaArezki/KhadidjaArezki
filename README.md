@@ -1,7 +1,7 @@
 # Hi, I am Khadidja Arezki 👋
 ### Full Stack Web Developer
 🔥 I am passionate about computer science<br>
-🌱 I am currently following the [Open Source Science University Computer Science Curriculum](https://github.com/ossu/computer-science)<br>
+🌱 I am currently following the [Open Source Society University Computer Science Curriculum](https://github.com/ossu/computer-science)<br>
 🔭 I learned full stack development using MERN and cloud development on AWS<br>
 👯 I’m looking to collaborate on a React/NodeJS project<br>
 🤔 I’m looking for help with building my developer network<br>
