@@ -17,7 +17,7 @@
 <br>![<img src="./assets/pricelee-landing-dsk-small.png)" />](./assets/pricelee-landing-dsk-small.png)
 
 3. 💬 Litetalk (team project created at [Chingu](https://www.chingu.io/)): A lightweight social media app for connecting with family and friends. You can chat and share media.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;➡️ [repository link](https://github.com/chingu-voyages/v39-bears-team-11)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;➡️ [repository link](https://github.com/KhadidjaArezki/Litetalk)
 <br>&nbsp;&nbsp;&nbsp;&nbsp; 📸 Screenshots: 👇<br>
 <br>![<img src="./assets/litetalk-chats-mob.png"/>](./assets/litetalk-chats-mob.png)
 
